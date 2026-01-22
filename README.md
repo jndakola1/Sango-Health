@@ -1,6 +1,6 @@
 # Amana Health - Modern Healthcare Platform
 
-This is a Next.js application built with Firebase Studio, demonstrating a modern healthcare platform.
+This is a Next.js application, demonstrating a modern healthcare platform.
 
 ## Key Features
 
@@ -30,5 +30,5 @@ The provider-side of the application starts at `src/app/provider/page.tsx`.
 
 ---
 
-_This project was bootstrapped with Firebase Studio._
+_This project was bootstrapped with Fb Studio._
 # SH
