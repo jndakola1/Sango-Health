@@ -1,0 +1,226 @@
+{
+  "placeholderImages": [
+    {
+      "id": "user-avatar",
+      "description": "Avatar for user navigation menu",
+      "imageUrl": "https://images.unsplash.com/photo-1563178406-4cdc2923acbc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d29tYW4lMjBzbWlsaW5nfGVufDB8fHx8MTc2ODIyMjgzNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "doctor-1",
+      "description": "Avatar for Dr. Sarah Connor",
+      "imageUrl": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkb2N0b3IlMjBzbWlsaW5nfGVufDB8fHx8MTc2ODQ1MjYyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor smiling"
+    },
+    {
+      "id": "doctor-2",
+      "description": "Avatar for Dr. John Smith",
+      "imageUrl": "https://images.unsplash.com/photo-1707568732078-bcf805f6d834?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkb2N0b3IlMjBtYW58ZW58MHx8fHwxNzY4MzE1MzI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor man"
+    },
+    {
+      "id": "doctor-5",
+      "description": "Avatar for Dr. Maria Garcia",
+      "imageUrl": "https://images.unsplash.com/photo-1594824476967-48c8b964273f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkb2N0b3IlMjBmZW1hbGV8ZW58MHx8fHwxNzY4NDI0NTY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor female"
+    },
+    {
+      "id": "doctor-6",
+      "description": "Avatar for Dr. David Kim",
+      "imageUrl": "https://images.unsplash.com/photo-1615177393114-bd2917a4f74a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkb2N0b3IlMjBtYWxlfGVufDB8fHx8MTc2ODQyNDU2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor male"
+    },
+    {
+      "id": "doctor-7",
+      "description": "Avatar for Dr. Olivia Martinez",
+      "imageUrl": "https://images.unsplash.com/photo-1685022036574-12bffde5e2b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxkb2N0b3IlMjB3b21hbnxlbnwwfHx8fDE3NjgzNDM2MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor woman"
+    },
+    {
+      "id": "doctor-8",
+      "description": "Avatar for Dr. Robert Brown",
+      "imageUrl": "https://images.unsplash.com/photo-1707568732078-bcf805f6d834?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkb2N0b3IlMjBtYW58ZW58MHx8fHwxNzY4MzE1MzI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor man"
+    },
+    {
+      "id": "doctor-gaelle",
+      "description": "Avatar for Dr. Gaelle de Lamotte",
+      "imageUrl": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkb2N0b3J8ZW58MHx8fHwxNzY4Mzk3MDI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "female doctor"
+    },
+    {
+      "id": "hospital-1",
+      "description": "Image for City General Hospital",
+      "imageUrl": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxob3NwaXRhbCUyMGJ1aWxkaW5nfGVufDB8fHx8MTc2ODQzMjAwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hospital building"
+    },
+    {
+      "id": "hospital-2",
+      "description": "Image for Oak Valley Medical Center",
+      "imageUrl": "https://images.unsplash.com/photo-1616628188540-925618b9b8b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtZWRpY2FsJTIwY2VudGVyfGVufDB8fHx8MTc2ODQzMjAwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "medical center"
+    },
+    {
+      "id": "clinic-1",
+      "description": "Image for Sunnyvale Clinic",
+      "imageUrl": "https://images.unsplash.com/photo-1632949633012-02c34a2e5d9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjbGluaWMlMjBidWlsZGluZ3xlbnwwfHx8fDE3Njg0MzIwMDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "clinic building"
+    },
+    {
+      "id": "support-avatar",
+      "description": "Avatar for Amana Health support team",
+      "imageUrl": "https://images.unsplash.com/photo-1760037034697-eee0b07ae072?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsb2dvJTIwaGVhbHRofGVufDB8fHx8MTc2ODMxNjg0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo health"
+    },
+    {
+      "id": "feature-1",
+      "description": "Image for easy appointments feature",
+      "imageUrl": "https://images.unsplash.com/photo-1617106399900-61a7561d1d2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjYWxlbmRhciUyMHNjaGVkdWxlfGVufDB8fHx8MTc2ODI5OTc5OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "calendar schedule"
+    },
+    {
+      "id": "feature-2",
+      "description": "Image for teleconsultation feature",
+      "imageUrl": "https://images.unsplash.com/photo-1612832164313-ac0d7e07b5ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx2aWRlbyUyMGNhbGx8ZW58MHx8fHwxNzY4MzE3MjY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "video call"
+    },
+    {
+      "id": "feature-3",
+      "description": "Image for secure messaging feature",
+      "imageUrl": "https://images.unsplash.com/photo-1625842312072-7ff20b09abf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjaGF0JTIwYnViYmxlc3xlbnwwfHx8fDE3NjgzMTcyNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chat bubbles"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "Avatar for testimonial from Sarah L.",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwYXRpZW50JTIwd29tYW58ZW58MHx8fHwxNzY4MzE4OTQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "patient woman"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "Avatar for testimonial from Michael B.",
+      "imageUrl": "https://images.unsplash.com/photo-1606214309399-0a56d0f41334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwYXRpZW50JTIwbWFufGVufDB8fHx8MTc2ODMxODk5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "patient man"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "Avatar for testimonial from Jessica P.",
+      "imageUrl": "https://images.unsplash.com/photo-1594824476967-48c8b964273f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMXx8cGF0aWVudCUyMHdvbWFufGVufDB8fHx8MTc2ODMxODk0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "testimonial-4",
+      "description": "Avatar for testimonial from David R.",
+      "imageUrl": "https://images.unsplash.com/photo-1557053912-321a94205859?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwYXRpZW50JTIwbWFufGVufDB8fHx8MTc2ODMxODk5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "promo-partner",
+      "description": "Image for partnership promotion",
+      "imageUrl": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxidXNpbmVzcyUyMGhhbmRzaGFrZXxlbnwwfHx8fDE3NjgxOTg3OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "business handshake"
+    },
+    {
+      "id": "promo-professionals",
+      "description": "Image for recruiting professionals",
+      "imageUrl": "https://images.unsplash.com/photo-1516841273335-e39b37888115?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtZWRpY2FsJTIwdGVhbXxlbnwwfHx8fDE3NjgyNTAwNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "medical team"
+    },
+    {
+      "id": "promo-event",
+      "description": "Image for a health and wellness event",
+      "imageUrl": "https://images.unsplash.com/photo-1654868537177-86c35bb6b226?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjb21tdW5pdHklMjBldmVudHxlbnwwfHx8fDE3NjgyMzUxNjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "community event"
+    },
+    {
+      "id": "promo-invest",
+      "description": "Image for investor relations",
+      "imageUrl": "https://images.unsplash.com/photo-1765868017260-6e22bbf96095?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmaW5hbmNlJTIwZ3Jvd3RofGVufDB8fHx8MTc2ODIxNDMxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "finance growth"
+    },
+    {
+      "id": "location-pin",
+      "description": "Icon for location pin",
+      "imageUrl": "https://images.unsplash.com/photo-1599983692887-9d7a9b744046?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtYXAlMjBwaW58ZW58MHx8fHwxNzY4MzE5ODc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "map pin"
+    },
+    {
+      "id": "hero-doctor",
+      "description": "Hero image of a doctor for the landing page",
+      "imageUrl": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkb2N0b3J8ZW58MHx8fHwxNzY4Mzk3MDI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor smiling"
+    },
+    {
+      "id": "hero-stethoscope",
+      "description": "Stethoscope on a soft background for hero section",
+      "imageUrl": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdGV0aG9zY29wZSUyMG1lZGljYWx8ZW58MHx8fHwxNzY4NDUyNjI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "stethoscope medical"
+    },
+    {
+      "id": "ai-diagnosis-banner",
+      "description": "Abstract image for AI diagnosis",
+      "imageUrl": "https://images.unsplash.com/photo-1532187644165-ba22fb7d7812?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwbWVkaWNhbHxlbnwwfHx8fDE3Njg5NTQ5NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "artificial intelligence medical"
+    },
+    {
+      "id": "secure-messaging-banner",
+      "description": "Image representing secure messaging",
+      "imageUrl": "https://images.unsplash.com/photo-1584824486509-112e4181ff6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzZWN1cmUlMjBjb21tdW5pY2F0aW9ufGVufDB8fHx8MTc2ODk1NTAxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "secure communication"
+    },
+    {
+      "id": "map-placeholder",
+      "description": "Placeholder for a map view of an address",
+      "imageUrl": "https://images.unsplash.com/photo-1569322971278-d4a25968379c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYXAlMjBsb2NhdGlvbnxlbnwwfHx8fDE3NjkwOTU4MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "map location"
+    },
+    {
+      "id": "pharmacy-pain",
+      "imageUrl": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "pain relief",
+      "description": "Category image for pain relief products"
+    },
+    {
+      "id": "pharmacy-cold",
+      "imageUrl": "https://images.unsplash.com/photo-1555819209-13c5973e8a71?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "cold flu",
+      "description": "Category image for cold and flu products"
+    },
+    {
+      "id": "pharmacy-skin",
+      "imageUrl": "https://images.unsplash.com/photo-1563993282467-9a38f836511a?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "skin care",
+      "description": "Category image for skin care products"
+    },
+    {
+      "id": "pharmacy-vitamins",
+      "imageUrl": "https://images.unsplash.com/photo-1607620849203-da4c7d090f75?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "vitamins supplements",
+      "description": "Category image for vitamins and supplements"
+    },
+    {
+      "id": "pharmacy-baby",
+      "imageUrl": "https://images.unsplash.com/photo-1525999089943-c35c6b38933b?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "baby child",
+      "description": "Category image for baby and child products"
+    },
+    {
+      "id": "product-ibuprofen",
+      "imageUrl": "https://images.unsplash.com/photo-1631557813478-4354b3913032?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "ibuprofen pills",
+      "description": "Product image for Ibuprofen"
+    },
+    {
+      "id": "product-vitaminc",
+      "imageUrl": "https://images.unsplash.com/photo-1628191140046-687e38f65261?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "vitamin c",
+      "description": "Product image for Vitamin C"
+    },
+    {
+      "id": "product-allergy",
+      "imageUrl": "https://images.unsplash.com/photo-1606213453736-a675e3905e32?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "nasal spray",
+      "description": "Product image for allergy spray"
+    }
+  ]
+}
